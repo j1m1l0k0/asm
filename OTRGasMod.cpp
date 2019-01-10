@@ -1,3 +1,5 @@
+/* Gasoline Trainer for On The Road Steam Version - by j1m1l0k0 */
+
 #include <iostream>
 #include <stdio.h>
 #include <vector>
