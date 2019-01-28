@@ -66,7 +66,7 @@ int main(int argc, char **argv)
 	float valor = 1200;
 	
 	// Write value in pointer address
-	EscreverMemoria(LPVOID(0x1BFAD9F82BC), valor);
+	EscreverMemoria(LPVOID(0x22739A7A17C), valor);
 	Sleep(1000); //1 segundo
 	
 	return 0;
